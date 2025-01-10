@@ -1,5 +1,5 @@
-### Hi there 👋
-I'm a budding researcher and software engineer with a bachelor's degree in electronics and communication. I am a student at SRH University Berlin pursuing a Master's in Artificial Intelligence and big data. I desire to work and carry out R&D work on image processing applications with NeuroSymbolic AI. 
+### Hi there 👋 
+I'm a budding researcher and software engineer with a bachelor's degree in electronics and communication. Presently student at SRH University Berlin pursuing a Master's in Artificial Intelligence and big data. I desire to work and carry out R&D work on image processing applications with NeuroSymbolic AI and with a vision to bring out new possibilities to cast out the boon of AI being affective to effective for the human race! 
 <!--
 **Pradyumna2098/Pradyumna2098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
